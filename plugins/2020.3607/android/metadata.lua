@@ -26,6 +26,7 @@ local metadata =
    },
    coronaManifest = {
     dependencies = {
+      ["shared.firebase.messaging"] = "com.coronalabs",
    },
   },
 }
